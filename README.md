@@ -6,7 +6,7 @@ This is a responsive page built using plain HTML, CSS and JavaScript to showcase
 This is a responsive page built using plain HTML, CSS and JavaScript to showcase my skills and previous projects as well as contact details.
 
 ## SCREENSHOTS
-- link 1
+- ./assets/images/landing.png
 - link 2
 
 
